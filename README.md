@@ -1,6 +1,7 @@
 # Salut
 ```lisp
-;; Hello ;;
-(insert ";; Hello" github)
-;; Hello person
+;; (((((([o])))))) ;;
+(defvar github "person or bot")
+(insert ";; Hello " github)
+;; Hello person or bot
 ```
