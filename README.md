@@ -1,7 +1,7 @@
 
 > disciple of the whole enchilada
 
-currently looking at:
+currently thinking about:
 
 - cognitive sciences
   - eeg
