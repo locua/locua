@@ -3,12 +3,12 @@
 currently looking at:
 
 - cognitive sciences
-  a. eeg
-  b. neurofeedback
-  c. spatial attention
-  d. abnormal psychology
-  e. qualitative and mixed methods
-  f. metascience
-  g. memory
+  - eeg
+  -  neurofeedback
+  -  spatial attention
+  -  abnormal psychology
+  -  qualitative and mixed methods
+  -  metascience
+  -  memory
 - creative prose
 - ...
