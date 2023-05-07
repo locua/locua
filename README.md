@@ -1,15 +1,13 @@
 
-> disciple of the whole enchilada
+
 
 currently thinking about:
 
 - cognitive sciences
-  - eeg
-  -  neurofeedback
-  -  spatial attention
-  -  abnormal psychology
-  -  qualitative and mixed methods
-  -  metascience
-  -  memory
+  - eeg neurofeedback
+  - spatial attention
+  - metascience
+  - memory
+  - the whole enchilada
 - creative prose
 - ...
